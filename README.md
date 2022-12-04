@@ -1,26 +1,26 @@
-# Repository for the Tags + Docker Hub Lab
+# Repository for the Multi-stage Docker Lab
  
-Manage Docker image versions using tags in Docker Hub
+Build a multi-stage .NET app using Dockerfile
 
 ## Overview
 The BrezyWeather is a simple .NET Core web app used as a demo project in this Docker Hub lab. It is used to view simple weather details for a city. 
-It supports two versions - first is the base version and the second is the enhanced version with breaking changes. 
 
 ## Learning Objectives
-- Build the image using Dockerfile.
-- Push the image to the Docker Hub.
-- Build and push the image having breaking changes.
-- Pull and validate the image from the Docker Hub.
+- Create a Dockerfile with multiple stages of builds.
+- Add base, build, publish, and final stage for a .NET app.
+- Build and run the .NET container image.
+- Dockerize a .NET app using Dockerfile.
+- Create an efficient image using Dockerfile. 
 
 ## What You Will Learn?
-- Tags in Docker.
-- Docker Hub.
-- Handling image changes with tags.
-- Push and pull the Docker image to Docker Hub through CLI commands. 
+- Dockerfile
+- Dockerfile instructions and their usage.
+- Docker CLI commands.
+- Add a Dockerfile for an existing Web API project.
 - Build a project with Dockerfile to create a Docker image.
 
 ## Prerequisites
-- Basic knowledge of Tags in Docker.
-- Familiarity with Docker Hub.
-- Docker Hub account (free) to push and pull Docker images. 
+- Basic knowledge of Dockerfile.
+- Working knowledge on .NET. 
+- Familiarity with container concepts.
 - Basic understanding of HTTP operations.
