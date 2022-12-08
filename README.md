@@ -24,3 +24,6 @@ The BrezyWeather is a simple .NET Core web app used as a demo project in this Do
 - Working knowledge on .NET. 
 - Familiarity with container concepts.
 - Basic understanding of HTTP operations.
+
+## Learn More & Enrol
+https://www.udemy.com/labs/build-a-multi-stage-net-app-using-dockerfile/
