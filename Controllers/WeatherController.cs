@@ -1,4 +1,4 @@
-﻿namespace BrezyWeather.Controllers;
+﻿namespace TechWeather.Controllers;
 
 [ApiController]
 [Route("[controller]")]
