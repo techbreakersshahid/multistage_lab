@@ -17,7 +17,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "BrezyWeather": {
+    "TechWeather": {
       "commandName": "Project",
       "launchBrowser": true,
       "launchUrl": "swagger",
