@@ -1,5 +1,5 @@
 ﻿
-namespace BrezyWeather.Data
+namespace TechWeather.Data
 {
     public class WeatherDbContext: DbContext
     {
