@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace BrezyWeather.Models;
+namespace TechWeather.Models;
 
 public class Weather
 {
